@@ -1,0 +1,13 @@
+C:\Users\ccraw\source\repos\ZipToLatLon\bin\Debug\net6.0\ZipToLatLon.deps.json
+C:\Users\ccraw\source\repos\ZipToLatLon\bin\Debug\net6.0\ZipToLatLon.dll
+C:\Users\ccraw\source\repos\ZipToLatLon\bin\Debug\net6.0\ZipToLatLon.pdb
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ZipToLatLon.csproj.AssemblyReference.cache
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ZipToLatLon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ZipToLatLon.AssemblyInfoInputs.cache
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ZipToLatLon.AssemblyInfo.cs
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ZipToLatLon.csproj.CoreCompileInputs.cache
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ZipToLatLon.dll
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\refint\ZipToLatLon.dll
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ZipToLatLon.pdb
+C:\Users\ccraw\source\repos\ZipToLatLon\obj\Debug\net6.0\ref\ZipToLatLon.dll
+C:\Users\ccraw\source\repos\ZipToLatLon\bin\Debug\net6.0\zips.csv
